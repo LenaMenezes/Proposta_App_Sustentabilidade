@@ -12,7 +12,10 @@
 
 ---
 
-3.Nosso Diagrama:
+3. Nosso Diagrama:
+---
+![image](https://github.com/LenaMenezes/Proposta_App_Sustentabilidade/assets/127405481/f3561367-a96c-4a9e-93d5-1a4e09dc1997)
+
 
 3.1 A classe AppDescarte é responsável por armazenar os usuários cadastrados no sistema, representados pelo atributo usuarios. Essa classe possui o método cadastrarUsuario(), que é utilizado para adicionar novos usuários ao sistema. Além disso, possui o método calcularDistancia(), que calcula a distância entre dois pontos passados como parâmetros, posssui o metodo listarPontoReciclagem() listara todos os pontos proximos com base no endereço adicionado pelo usuário e adicionarPontoReciclagem() metodo que adicionara novos postos de reciclagem no aplicativo.
 
@@ -20,14 +23,7 @@
 
 3.3 A classe PontoReciclagem representa um ponto pré-definido no aplicativo. Ela possui os atributos latitude e longitude, que representam a localização geográfica do ponto. O método RegistrarPontoReciclagem()
 
----
-![image](https://github.com/LenaMenezes/Proposta_App_Sustentabilidade/assets/127405481/dd4fc102-47d1-4cd0-b290-c8627667dab2)
 
 Os integrantes da dupla são: Helena Menezes e José Vinicius. 
-
-
-
-   
- 
 
 Faça parte dessa jornada sustentável e contribua para um mundo mais limpo!
