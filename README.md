@@ -4,7 +4,7 @@
 
 ---
 
-1. Nosso aplicativo é a solução perfeita para ajudar a descartar o lixo de forma consciente.Além das telas de informaçoes especificas de um lixo, será adicionado mapa que mostrara os pontos de reciclagens mais proximos do usuario, enquanto nossa nova tela de cadastro garante o controle e fornecimento de informações necessárias para uma experiência personalizada.
+1. Nosso aplicativo é a solução perfeita para ajudar a descartar de cada materia de forma consciente.Além das telas de informaçoes especificas de um lixo, será adicionado mapa que mostrara os pontos de reciclagens mais proximos do usuario, enquanto nossa nova tela de cadastro garante o controle e fornecimento de informações necessárias para uma experiência personalizada.
 
 ---
 
