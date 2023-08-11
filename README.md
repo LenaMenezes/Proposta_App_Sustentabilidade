@@ -23,7 +23,6 @@
 
 3.3 A classe PontoReciclagem representa um ponto pré-definido no aplicativo. Ela possui os atributos latitude e longitude, que representam a localização geográfica do ponto. O método RegistrarPontoReciclagem()
 
+Faça parte dessa jornada sustentável e contribua para um mundo mais limpo!
 
 Os integrantes da dupla são: Helena Menezes e José Vinicius. 
-
-Faça parte dessa jornada sustentável e contribua para um mundo mais limpo!
